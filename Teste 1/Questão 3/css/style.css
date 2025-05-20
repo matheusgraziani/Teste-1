@@ -1,0 +1,15 @@
+* {
+    padding: 20px;
+    box-sizing:border-box;
+    margin: 10px;
+    }
+
+:root{
+    background-color: rgb(133, 11, 11);
+    color: black;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
